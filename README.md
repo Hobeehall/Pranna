@@ -1,2 +1,0 @@
-# Pranna
-Roseday
